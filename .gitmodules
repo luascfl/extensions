@@ -1,0 +1,15 @@
+[submodule "firefox-addon-manager"]
+	path = firefox-addon-manager
+	url = https://github.com/luascfl/firefox-addon-manager.git
+[submodule "tab_group_extras"]
+	path = tab_group_extras
+	url = https://github.com/luascfl/tab_group_extras.git
+[submodule "otp_filler_gmail"]
+	path = otp_filler_gmail
+	url = https://github.com/luascfl/otp_filler_gmail.git
+[submodule "reclaim_ai_smart_new_tab"]
+	path = reclaim_ai_smart_new_tab
+	url = https://github.com/luascfl/reclaim_ai_smart_new_tab.git
+[submodule "webdav-browser-enhanced"]
+	path = webdav-browser-enhanced
+	url = https://github.com/luascfl/webdav-browser-enhanced.git
